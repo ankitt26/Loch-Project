@@ -1,6 +1,7 @@
 .main {
   width: 95.8%;
-  height: 1024px;
+  height: 938px;
+  overflow: hidden;
   padding-top: 86px;
   padding-left: 4.19%;
   background: linear-gradient(
