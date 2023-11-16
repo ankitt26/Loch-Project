@@ -1,0 +1,24 @@
+.heading {
+  width: 400px;
+  height: 30px;
+  /* top: 737px*/
+  margin-left: 295px;
+
+  font-family: Inter;
+  font-size: 25px;
+  font-weight: 500;
+  line-height: 30px;
+  letter-spacing: 0px;
+  text-align: right;
+  color: rgba(242, 242, 242, 1);
+}
+
+.hr {
+  margin-top: 5px;
+  width: 695px;
+  top: 787px;
+  rotate: -0 deg;
+  /* width: 87%; */
+  border: 1px solid rgba(229, 229, 230, 0.5);
+  background: rgba(242, 242, 242, 1);
+}

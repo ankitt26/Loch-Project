@@ -6,6 +6,7 @@ import Card_1 from "./cards/Card_1";
 import Card_2 from "./cards/Card_2";
 import Card_3 from "./cards/Card_3";
 import Cohorts from '../assets/Images/Cohorts.png'
+import Testimonials from './Testimonials';
 export default () => {
   return (
     <>
@@ -22,6 +23,7 @@ export default () => {
           <img src={Cohorts} className={styles.Cohorts} alt="Cohorts" />
           <Second_group />
         </section>
+        <Testimonials/>
       </main>
     </>
   );
