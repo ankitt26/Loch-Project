@@ -2,12 +2,7 @@
   width: 189.7px;
   height: 171.5px;
   border-radius: 8.4px;
-  background: linear-gradient(0deg, #ffffff, #ffffff),
-    linear-gradient(
-      180deg,
-      rgba(255, 255, 255, 0.2) 27.5%,
-      rgba(22, 93, 255, 0.162) 157.71%
-    );
+  background: linear-gradient(180deg, #fff, rgb(152, 175, 232));
 }
 
 .save {
@@ -47,11 +42,11 @@
 }
 
 .input {
-  width: 161.7px;
+  width: 136.1px;
   height: 35px;
   margin-left: 14px;
   margin-right: 14px;
-  padding: 0;
+  padding: 0 12px;
   border-radius: 5.6px;
   background: linear-gradient(0deg, #d4d4d4, #d4d4d4),
     linear-gradient(0deg, #ffffff, #ffffff);

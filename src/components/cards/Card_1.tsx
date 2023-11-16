@@ -24,6 +24,7 @@ export default () => {
         className={styles.input}
         onChange={email_value}
         value={email}
+        placeholder='xyz@gmail.com'
       ></input>
     </form>
   );
