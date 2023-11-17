@@ -81,3 +81,16 @@ left: 950px */
   margin-top: 24px;
   color: #19191a;
 }
+
+@media only screen and (max-width: 1300px) {
+  .signup {
+    width: 40%;
+    left: 60%;
+  }
+}
+
+@media only screen and (max-width: 1200px) {
+  .signup {
+    border-bottom-left-radius: 50px;
+  }
+}
