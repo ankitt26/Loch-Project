@@ -3,7 +3,7 @@ import styles from "../../styles/Card.module.css";
 import { useState } from "react";
 
 export default () => {
-  const [check, setCheck] = useState(false);
+  const [check, setCheck] = useState(true);
   const [selectedAmount, setSelectedAmount] = useState(1000);
 
   const handleCheckboxChange = () => {
