@@ -1,10 +1,10 @@
 .signup {
   background: #ffffff;
-  width: 640px;
+  width: 44.44%;
   height: 1024px;
   position: absolute;
   top: 0;
-  left: 60%;
+  left: 55.55%;
   z-index: 2;
 }
 
@@ -15,9 +15,7 @@
   border-radius: 8px;
   display: flex;
   flex-direction: column;
-  justify-content: center;
   align-items: center;
-  row-gap: 12px;
 }
 .h2 {
   width: 326px;
@@ -28,7 +26,6 @@
   line-height: 47px;
   letter-spacing: 0px;
   text-align: left;
-
   color: #b0b1b3;
 }
 
@@ -38,7 +35,7 @@
   padding: 0px 14px;
   border-radius: 8px;
   border: 1px solid #e5e5e6;
-
+  margin-top: 24px;
   color: #e5e5e6;
 }
 
@@ -50,7 +47,7 @@ left: 950px */
   padding: 18px 28px;
   border-radius: 8px;
   border: 1px;
-  gap: 12px;
+  /* gap: 12px; */
   /* //styleName: Button Label; */
   font-family: Inter;
   font-size: 16px;
@@ -58,6 +55,7 @@ left: 950px */
   line-height: 19px;
   letter-spacing: 0px;
   text-align: center;
+  margin-top: 24px;
   color: #fff;
 
   background: #19191a;
@@ -73,6 +71,6 @@ left: 950px */
 
   width: 365px;
   height: 19px;
-
+  margin-top: 24px;
   color: #19191a;
 }
