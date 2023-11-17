@@ -44,3 +44,13 @@
   -o-transition: -o-transform 1.5s ease-in-out !important;
   transition: transform 1.5s ease-in-out !important;
 }
+
+.get-started {
+  width: 100px;
+  height: 39px;
+  font-size: 14px;
+  position: absolute;
+  top: 15px;
+  right: 10px;
+  margin: 12px;
+}
