@@ -6,6 +6,8 @@
   top: 0;
   left: 55.55%;
   z-index: 2;
+  box-shadow: 2px 0px 20px #faeeee;
+  border-left: 2px solid #fffe;
 }
 
 .signup_detail {

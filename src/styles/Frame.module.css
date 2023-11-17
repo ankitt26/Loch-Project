@@ -1,9 +1,8 @@
 .main {
   min-width: 313px;
-  width: auto;
-  height: Fixed 136px;
-  /* top: 10698px */
-  /* left: 13832px */
+  max-width: 531px;
+  width: fit-content;
+  height: 136px;
   font-family: Inter;
   padding: 20px;
   border-radius: 12px;
@@ -17,7 +16,7 @@
   display: flex;
   flex-direction: row;
   justify-content: flex-start;
-  align-items: center;
+  /* align-items: center; */
   column-gap: 10px;
 }
 
@@ -48,9 +47,6 @@
 .para {
   /* width: 313px; */
   height: 57px;
-
-  /* //styleName: Body; */
-  /* font-family: Inter; */
   font-size: 16px;
   font-weight: 500;
   line-height: 19px;

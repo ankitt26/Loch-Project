@@ -17,7 +17,7 @@ const Frame: FC<FrameProps> = (props) => {
           <h4 className={styles.name}>{name}</h4>
           <p className={styles.detail}>{detail}</p>
         </div>
-        <p className={styles.para}>{para}</p>
+        <p className={styles.para}>“{para}”</p>
       </div>
   );
 };
