@@ -1,0 +1,83 @@
+.signup {
+  background: #ffffff;
+  width: 44.44%;
+  height: 1024px;
+  position: absolute;
+  top: 0;
+  left: 55.55%;
+  z-index: 2;
+  box-shadow: 2px 0px 20px #faeeee;
+  border-left: 2px solid #fffe;
+}
+
+.signup_detail {
+  width: 365px;
+  height: 347px;
+  margin: 369px auto;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.h2 {
+  width: 326px;
+  height: 94px;
+  font-family: Inter;
+  font-size: 39px;
+  font-weight: 500;
+  line-height: 47px;
+  letter-spacing: 0px;
+  text-align: left;
+  color: #b0b1b3;
+}
+
+.input {
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 19px;
+  letter-spacing: 0px;
+  text-align: left;
+  width: 309px;
+  height: 59px;
+  padding: 0px 14px;
+  border-radius: 8px;
+  border: 1px solid #e5e5e6;
+  margin-top: 24px;
+}
+
+.button {
+  width: 340px;
+  height: 59px;
+  /* top: 578px
+left: 950px */
+  padding: 18px 28px;
+  border-radius: 8px;
+  border: 1px;
+  /* gap: 12px; */
+  /* //styleName: Button Label; */
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 19px;
+  letter-spacing: 0px;
+  text-align: center;
+  margin-top: 24px;
+  color: #fff;
+
+  background: #19191a;
+}
+.span {
+  /* //styleName: Button Label; */
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 19px;
+  letter-spacing: 0px;
+  text-align: center;
+
+  width: 365px;
+  height: 19px;
+  margin-top: 24px;
+  color: #19191a;
+}

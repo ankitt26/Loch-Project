@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+}
+
+@keyframes scroll {
+  0% {
+    transform: translateX(0px);
+  }
+  100% {
+    transform: translateX(calc(-236px * 3));
+  }
+}
+.slider {
+  margin: auto;
+  overflow: hidden;
+  position: relative;
+  width: auto;
+}
+
+.slider .slide-track {
+  animation: scroll 12s linear infinite;
+  display: flex;
+}
+
+.slider .slide {
+  width: auto;
+  padding: 23px;
+}
+
+.slider:hover .slide-track {
+  animation-play-state: paused;
+}
