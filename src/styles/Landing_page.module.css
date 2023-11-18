@@ -55,3 +55,50 @@
 
   box-shadow: 0px 8px 22px -6px rgba(24, 39, 75, 0.12);
 }
+
+@media only screen and (max-width: 1200px) {
+  .main {
+    height: max-content;
+    width: 100%;
+  }
+  .first_block {
+    flex-direction: column;
+  }
+
+  .cards {
+    margin-top: 17px;
+    width: 800px;
+  }
+
+  .second_block {
+    flex-direction: column-reverse;
+    justify-content: flex-start;
+    align-items: flex-start;
+    row-gap: 24px;
+  }
+}
+
+@media only screen and (max-width: 1000px) {
+  .cards {
+    width: 1000px;
+  }
+}
+
+/* mobile  */
+
+@media only screen and (min-width: 200px) and (max-width: 778px) {
+  .main {
+    padding: 0;
+    padding-top: 25px;
+  }
+
+  .second_block {
+    margin-top: 20px;
+    margin-left: 20px;
+  }
+
+  .Cohorts {
+    width: 300px;
+    height: 280px;
+  }
+}

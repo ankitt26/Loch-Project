@@ -37,3 +37,16 @@
   text-align: right;
   padding-top: 17px;
 }
+
+@media only screen and (max-width: 1400px) {
+  .group_2 {
+    text-align: left;
+    padding-top: 15px;
+  }
+}
+
+@media only screen and (min-width: 200px) and (max-width: 778px) {
+  .group {
+    margin-left: 20px;
+  }
+}

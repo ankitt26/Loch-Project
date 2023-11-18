@@ -7,6 +7,7 @@ import Card_2 from "./cards/Card_2";
 import Card_3 from "./cards/Card_3";
 import Cohorts from "../assets/Images/Cohorts.png";
 import Testimonials from "./Testimonials";
+import Popup from './popup';
 
 const Slider = () => {
   return (
@@ -41,6 +42,7 @@ const Slider = () => {
 export default () => {
   return (
     <>
+    <Popup/>
       <main className={styles.main}>
         <section className={styles.first_block}>
           <First_group />

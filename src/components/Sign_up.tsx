@@ -19,7 +19,7 @@ export default () => {
   };
 
   return (
-    <div className={styles.signup}>
+    <div className={styles.signup} id='signup'>
       <form className={styles.signup_detail} onSubmit={onsignup}>
         <h2 className={styles.h2}>Sign up for exclusive access.</h2>
         <input
@@ -28,6 +28,7 @@ export default () => {
           placeholder="your email address"
           onChange={set_email}
           value={email}
+          required
         ></input>
         <button className={styles.button} type="submit">
           Get Started
