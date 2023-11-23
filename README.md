@@ -144,8 +144,6 @@ You can deploy this project using:
 > ✅ deployed on render [ see live 🎉 ](https://landing-ankitt26.onrender.com/)
 
 
-
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -167,8 +165,6 @@ You can deploy this project using:
 
 - Add the animations in the app.🚀
 - Add the testing using react testing library💯
-- Add the final touches for the styling👌
-
 
 <!-- CONTRIBUTING -->
 
