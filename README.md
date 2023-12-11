@@ -1,13 +1,13 @@
 
 <a name="readme-top"></a>
 
-<div align="center"> <h1> Loch Assessment</h1>
+<div align="center"> <h1> Loch Project</h1>
 </div>
 
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 \[Loch  Assessment\] ](#-loch--assessment-)
+- [📖 \[Loch Project\] ](#-loch-Project-)
   - [🛠️ Built With ](#️-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -28,7 +28,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Loch  Assessment] <a name="about-project"></a>
+# 📖 [Loch Project] <a name="about-project"></a>
 
 **[Description]**
 
@@ -96,7 +96,7 @@ Example commands:
 
 ```sh
   cd my project
-  git clone git@github.com:ankitt26/Loch-assessment.git
+  git clone git@github.com:ankitt26/Loch-Project.git
 
 ```
 
